@@ -1,2 +1,2 @@
-W A S D - Movement
-Space - Jump
+- W A S D - Movement
+- Space - Jump
